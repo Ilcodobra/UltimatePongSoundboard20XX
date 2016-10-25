@@ -1,2 +1,2 @@
 # UltimatePongSoundboard20XX
-This is an android app that I never began making so I could get a shirt
+Some thing I never began making for free things
